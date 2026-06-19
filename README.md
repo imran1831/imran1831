@@ -1,5 +1,35 @@
 # 💫 About Me:
-I’m currently working on…<br>Building full-stack web apps using Node.js, Express, React & MongoDB<br>Improving my Data Structures and Algorithms (DSA) skills in Java<br>Personal portfolio website and open-source contributions.<br>I’m looking to collaborate on…<br>Web development projects (MERN / Full-Stack).<br>I’m looking for help with…<br>Improving problem-solving techniques for competitive programming<br>Learning system design basics.<br>
+# 👋 Hi, I'm Abdul Imran
+
+🎓 B.Tech Information Technology Student at Malla Reddy Engineering College, Hyderabad
+
+💻 Full-Stack Developer passionate about building scalable web applications using MERN Stack and modern technologies.
+
+🚀 Currently focused on:
+- Data Structures & Algorithms in Java
+- Full-Stack Development (React, Node.js, Express, MongoDB)
+- AI-Powered Web Applications
+- System Design Fundamentals
+
+🛠️ Building projects that solve real-world problems:
+-Hackly-The Hackathon Management System
+- Smart Job Application Tracker + AI Cover Letter Generator
+- Full-Stack Web Applications with Authentication & APIs
+
+📚 Constantly learning:
+- DSA
+- Backend Architecture
+- Cloud & AI Technologies
+- Open Source Development
+
+🤝 Open to:
+- Internship Opportunities
+- Full-Stack Development Projects
+- Open Source Contributions
+- Tech Collaborations
+- 
+⚡ Goal:
+To become a Software Engineer capable of building impactful products used by thousands of people..<br>
 
 
 ## 🌐 Socials:
